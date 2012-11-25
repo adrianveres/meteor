@@ -97,7 +97,8 @@ npm install stream-buffers@0.2.3
 npm install keypress@0.1.0
 npm install sockjs@0.3.4
 npm install http-proxy@0.8.5
-npm install sequelize@1.6.0
+npm install sequelize
+
 # progress 0.1.0 has a regression where it opens stdin and thus does not
 # allow the node process to exit cleanly. See
 # https://github.com/visionmedia/node-progress/issues/19
